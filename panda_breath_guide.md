@@ -1,5 +1,4 @@
-# Panda Breath Integration Guide  
-## Creality K1 Max (Rooted Klipper)  
+# Panda Breath Integration Guide for Creality K1 Max (Rooted Klipper)  
 
 ---
 
